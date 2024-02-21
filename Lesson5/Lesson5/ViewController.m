@@ -1,0 +1,22 @@
+//
+//  ViewController.m
+//  Lesson5
+//
+//  Created by Максим Бобков on 15.02.2024.
+//
+
+#import "ViewController.h"
+
+@interface ViewController ()
+
+@end
+
+@implementation ViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    // Do any additional setup after loading the view.
+}
+
+
+@end
